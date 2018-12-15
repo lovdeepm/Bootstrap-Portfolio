@@ -1,0 +1,83 @@
+body {
+    background-image: url(../images/circuit.png);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+}
+
+.container {
+    /* padding: 0px; */
+    /* margin: 80px auto; */
+    background: #ffffff;
+    border: solid 1px grey;
+}
+.container-fluid {
+    background: white;
+    padding: 0px;
+}
+h1,
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #4aaaa5;
+}
+.col-sm-2  {
+    background-image: url(../images/circuit.png);
+}
+
+
+footer {
+    font-size: 12px;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    padding: 50px;
+    margin: -40px;
+
+  }
+  .mt-4, .my-4 {
+    margin-top: 9.5rem!important;
+}
+.myimage {
+    float: left;
+    padding: 15px;
+
+}
+h1 {
+    margin-top: 30px;
+    padding: 13px;
+    border-bottom: solid grey 2px;
+}
+.bg-light {
+    background-color: white;
+}
+.navbar-brand {
+    padding-left: 20px;
+    padding-top: 50px;
+    font-size: 30px;
+    font-weight: 700;
+    background: #4aaaa5;
+    margin-left: 195px;
+    padding-right: 20px;
+    margin-top: -8px;
+}
+.navbar-light .navbar-brand {
+    color: white;
+    margin-bottom: -7px;
+}
+.navbar-light .navbar-nav .nav-link {
+    border-left: 1px solid #999999;
+}
+.navbar {
+    margin-top: 10px;
+}
+
+.text-left {
+    padding-bottom: 20px;
+
+}
+.btn {
+    color: white;
+    background-color: #4aaaa5
+}
